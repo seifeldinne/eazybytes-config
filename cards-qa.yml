@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank cards related QA local APIs"
+  contactDetails:
+    name: "Saif Hannachi -Developer"
+    email: "seif.hachi@xxx.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 555-1345
