@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs"
+  message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Saif Hannachi -Developer"
     email: "seif.hachi@xxx.com"
